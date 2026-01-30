@@ -1,8 +1,8 @@
 # 📱 Aplikasi Perpustakaan Mini
 
-Aplikasi mobile berbasis **Flutter** yang digunakan untuk mengelola data informasi (CRUD) dengan sistem autentikasi pengguna dan penyimpanan data menggunakan **MySQL**.
+Aplikasi mobile berbasis Flutter yang digunakan untuk mengelola data informasi (CRUD) dengan sistem autentikasi pengguna dan penyimpanan data menggunakan MySQL.
 
-Aplikasi ini dibuat untuk memenuhi **UAS Pemrograman Mobile 2**.
+Aplikasi ini dibuat untuk memenuhi **UAS Pemrograman Mobile 2**, dan dibangun khusus untuk **tampilan pengguna (user)**. Artinya, user tidak dapat langsung menambahkan buku ke database; sebagai gantinya, mereka dapat mengusulkan buku baru melalui fitur usulan, yang kemudian akan diverifikasi sebelum ditambahkan.
 
 ---
 
@@ -340,8 +340,7 @@ Center(
 ---
 
 ## 🎥 Video Demo Aplikasi
-📽️ **Link Video Demo:**  
-👉 
+📽️ Link Video Demo: **[Klik Di Sini](https://drive.google.com/file/d/1e9I6XIimXpdTcq678P0Vsjx2LtC2mzpx/view?usp=sharing)**
 
 ---
 
